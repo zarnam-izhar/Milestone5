@@ -73,7 +73,7 @@ button:hover {
     border: 2px solid #00aaff;
     border-radius: 8px;
     background-color: #f0f8ff;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 12px rgba(10, 10, 10, 0.2);
     outline: none;
 }
 
